@@ -28,4 +28,4 @@ Ambitious, proud and leader. These are characteristics that define me, passionat
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/c.auab)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/otaldocb)
 
-![snake gif](https://github.com/devcbc/devcbc/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Devcbc/Devcbc/blob/output/github-contribution-grid-snake.svg)
