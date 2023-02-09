@@ -16,7 +16,7 @@
 
 </div><br/>
 
-Ambitious, proud and leader. These are characteristics that define me, passionate about the unknown and the challenges that surround me.
+Ambitious, proud and leader. These are characteristics that define me, fond about the unknown and the challenges that surround me.
 
 ## CONTACT:
 
