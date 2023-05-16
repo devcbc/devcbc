@@ -1,5 +1,7 @@
 ### Hello! i'am Cauã Barcelos 👋
 
+![devcbc's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcbc&show_icons=true&theme=dark)
+
 ## Technologies i use in my day!
 
 <div style="display: inline_block"><br/>
