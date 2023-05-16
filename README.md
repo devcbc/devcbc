@@ -2,6 +2,8 @@
 
 ![devcbc's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcbc&show_icons=true&theme=tokyonight)
 
+Ambitious, proud and leader. These are characteristics that define me, fond about the unknown and the challenges that surround me.
+
 ## Technologies i use in my day!
 
 <div style="display: inline_block"><br/>
@@ -20,8 +22,6 @@
  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div><br/>
-
-Ambitious, proud and leader. These are characteristics that define me, fond about the unknown and the challenges that surround me.
 
 ## CONTACT:
 
