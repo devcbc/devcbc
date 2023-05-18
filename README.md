@@ -2,8 +2,6 @@
 
 Ambitious, proud and leader. These are characteristics that define me, fond about the unknown and the challenges that surround me.
 
-![devcbc's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcbc&show_icons=true&theme=tokyonight)
-
 ## Technologies i use in my day!
 
 <div style="display: inline_block"><br/>
@@ -26,7 +24,7 @@ Ambitious, proud and leader. These are characteristics that define me, fond abou
 ## CONTACT:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://cauabc12@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-barcelos-67b91b235/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcbc/)
 ## SOCIAL MIDIA:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/c.auab)
