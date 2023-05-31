@@ -1,6 +1,6 @@
 ### Hello! i'am Cauã Barcelos 👋
 
-Ambitious, proud and leader. These are characteristics that define me, fond about the unknown and the challenges that surround me.
+Ambitious, curious and leader. These are characteristics that define me, fond about the unknown and the challenges that surround me.
 
 ## Technologies i use in my day!
 
