@@ -28,5 +28,4 @@ I intend to expand my academic knowledge and acquire professional experience, ev
 ## SOCIAL MIDIA:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devcbc)
-<p align="left"> <a href="https://discord.com/users/206087795754795009" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="32" height="32" /></a> <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer">
 
