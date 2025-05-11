@@ -1,6 +1,6 @@
 ### Hello! i'am Cauã Barcelos 👋
 
-Ambitious, curious and leader. These are characteristics that define me, fond about the unknown and the challenges that surround me.
+I intend to expand my academic knowledge and acquire professional experience, evolving, always achieving the best result, and adding maximum value to the processes.
 
 ## Technologies i use in my day!
 
@@ -28,6 +28,5 @@ Ambitious, curious and leader. These are characteristics that define me, fond ab
 ## SOCIAL MIDIA:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devcbc)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devcbc)
 <p align="left"> <a href="https://discord.com/users/206087795754795009" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer">
 
