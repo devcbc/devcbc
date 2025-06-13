@@ -1,4 +1,4 @@
-### Hello! i'am Cauã Barcelos 👋
+### Hello! I'm Cauã Barcelos 👋
 
 I intend to expand my academic knowledge and acquire professional experience, evolving, always achieving the best result, and adding maximum value to the processes.
 
@@ -25,7 +25,7 @@ I intend to expand my academic knowledge and acquire professional experience, ev
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodevcbc@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcbc/)
-## SOCIAL MIDIA:
+## SOCIAL MEDIA:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devcbc)
 
